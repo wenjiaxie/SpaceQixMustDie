@@ -16,7 +16,7 @@ Controls
 ------------
 The player is controlled basically by a joystick on the left bottom corner, and a power-up on the right bottom corner. Just like arcade games, try to make controlling easier to make fluence game play experience. 
 
-OFfficial Cie
+Official Site
 ------------
 http://qixmustdie.com
 
